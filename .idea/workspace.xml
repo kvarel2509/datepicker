@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3e806eb-49bb-4816-94c1-25376748fa26" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="test" />
+        <option value="Day" />
+        <option value="Month" />
+        <option value="Item" />
+        <option value="Header" />
+        <option value="Calendar" />
+        <option value="Year" />
+        <option value="Space" />
+        <option value="DatePickerOrchestrator" />
+        <option value="YearsGroup" />
+        <option value="List" />
+        <option value="Main" />
+        <option value="Depth" />
+        <option value="TypeScript File" />
+        <option value="QuickDatePicker" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qdyyq5D8HcfT6t58ITOZZmfqzX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kvarel/PycharmProjects/calendar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/kvarel/PycharmProjects/calendar/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/datepicker/implementations/double/comsys" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/datepicker/implementations/double/comsys2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e806eb-49bb-4816-94c1-25376748fa26" name="Changes" comment="" />
+      <created>1685698009545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685698009545</updated>
+      <workItem from="1685698010618" duration="837000" />
+      <workItem from="1685698951359" duration="6093000" />
+      <workItem from="1685710526359" duration="7076000" />
+      <workItem from="1685944079967" duration="1897000" />
+      <workItem from="1685950085785" duration="23130000" />
+      <workItem from="1686031135277" duration="380000" />
+      <workItem from="1686031833744" duration="365000" />
+      <workItem from="1686032311584" duration="765000" />
+      <workItem from="1686034298961" duration="48000" />
+      <workItem from="1686053161043" duration="11733000" />
+      <workItem from="1686118460339" duration="10000" />
+      <workItem from="1686118917927" duration="45299000" />
+      <workItem from="1686314884697" duration="49021000" />
+      <workItem from="1686817937361" duration="28253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
